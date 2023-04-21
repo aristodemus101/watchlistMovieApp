@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280569087335",
+    "project_id": "watchlistmovie-60b39",
+    "storage_bucket": "watchlistmovie-60b39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280569087335:android:50f4efe517dd9cfaa39bc2",
+        "android_client_info": {
+          "package_name": "com.example.watchlistrial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280569087335-g1fclp8ld28t36tc7gnv8p2d5cb82t28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-NdJQZqqJvndBbYu4PAG1Mrqh7jHUshE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280569087335-g1fclp8ld28t36tc7gnv8p2d5cb82t28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
