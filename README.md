@@ -13,8 +13,7 @@ The app only demonstrates the UI and some features (login and API handling), the
 [![main-screen.png](https://i.postimg.cc/Mpg2Hxzm/main-screen.png)](https://postimg.cc/LJk0QcYJ)
 [![movie-details-page.png](https://i.postimg.cc/3RHsjB4y/movie-details-page.png)](https://postimg.cc/Z9Vs46LZ)
 [![movie-details-scrolledup.png](https://i.postimg.cc/vBLp0Vf0/movie-details-scrolledup.png)](https://postimg.cc/LY5CXhyP)
-
-Profile Page - [![profiles-page.png](https://i.postimg.cc/xdHrb7CD/profiles-page.png)](https://postimg.cc/8F1X2ZMt)
+[![profiles-page.png](https://i.postimg.cc/xdHrb7CD/profiles-page.png)](https://postimg.cc/8F1X2ZMt)
 
 
 ## TODO
