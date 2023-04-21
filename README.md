@@ -17,6 +17,7 @@ The app only demonstrates the UI and some features (login and API handling), the
 
 
 ## TODO
+- Make the bottomNavBar persistent.
 - Complete the API handling and populating.
 - Implement Sign up using firebase.
 - Use a local database to store user profile picture.
