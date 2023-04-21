@@ -5,7 +5,9 @@ The project implements various packages.
 It implements MVVM architecture and used BLoC for state management.
 
 ## Note:
-The app only demonstrates the UI and some features (login and API handling), the complete implementation will be done in the coming weeks.
+- Login ID - "abc123@gmail.com" 
+- Login Pwd - "apple123"
+- The app only demonstrates the UI and some features (login and API handling), the complete implementation will be done in the coming weeks.
 
 ## Screenshots
 [![Login.png](https://i.postimg.cc/L5mMSTmd/Login.png)](https://postimg.cc/LYQWBjqv)
