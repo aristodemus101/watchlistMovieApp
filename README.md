@@ -9,7 +9,7 @@ The app only demonstrates the UI and some features (login and API handling), the
 
 ## Screenshots
 [![Login.png](https://i.postimg.cc/L5mMSTmd/Login.png)](https://postimg.cc/LYQWBjqv)
-![login-with-details.png](https://i.postimg.cc/bNCjXkMM/login-with-details.png)](https://postimg.cc/SJMPC2m7)
+[![login-with-details.png](https://i.postimg.cc/bNCjXkMM/login-with-details.png)](https://postimg.cc/SJMPC2m7)
 [![main-screen.png](https://i.postimg.cc/Mpg2Hxzm/main-screen.png)](https://postimg.cc/LJk0QcYJ)
 [![movie-details-page.png](https://i.postimg.cc/3RHsjB4y/movie-details-page.png)](https://postimg.cc/Z9Vs46LZ)
 [![movie-details-scrolledup.png](https://i.postimg.cc/vBLp0Vf0/movie-details-scrolledup.png)](https://postimg.cc/LY5CXhyP)
