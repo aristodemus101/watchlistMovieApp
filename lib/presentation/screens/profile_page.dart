@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:watchlistrial/presentation/widgets/custom_nav_bar.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 class ProfilePage extends StatefulWidget {
   const ProfilePage({Key? key}) : super(key: key);
 
@@ -58,6 +60,18 @@ class _ProfilePageState extends State<ProfilePage> {
                         fontSize: 16
                     ),
                   ),
+                  SizedBox(height: 40,),
+                  ElevatedButton(
+                    onPressed: () async {
+                      await FirebaseAuth.instance.signOut();
+                      Navigator.pushNamedAndRemoveUntil(
+                        context,
+                        'LoginPage', // Replace with the route name of your login screen
+                            (route) => false, // Pop all routes in the stack
+                      );
+                    },
+                    child: Text('Log out'),
+                  )
 
                   //TODO add a change password and change dp option and add fields like email and password
                 ],

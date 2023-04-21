@@ -59,7 +59,7 @@ class _CategoryPageState extends State<CategoryPage> {
                         ),
                       ),
                       SizedBox(width: 10,),
-                      Text("Category",
+                      Text("Category $i",
                         style: TextStyle(
                             color: Colors.white,
                             fontWeight: FontWeight.w500,
