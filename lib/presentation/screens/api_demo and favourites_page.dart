@@ -31,6 +31,27 @@ class _FavouritesPageState extends State<FavouritesPage> {
                     ),
 
                   ),
+                  SizedBox(height: 30,),
+                  Container(
+
+                    width: double.infinity, // Set the width to occupy entire width
+                    alignment: Alignment.center, // Align the button at the center
+                    child: ElevatedButton(
+                      onPressed: () {
+                        Navigator.pushNamed(context, "ApiTrialDemoPage");
+                      },
+                      child: Text("See the API trial",
+                      style: TextStyle(
+                        color: Colors.black,
+                      ),),
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.white54, // Set the background color to transparent
+                         // Set the text color to black
+                        padding: EdgeInsets.all(30.0), // Set the height of the button
+                      ),
+                    ),
+                  ),
+
 
                 ],
               ),)
