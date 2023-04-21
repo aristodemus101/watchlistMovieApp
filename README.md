@@ -17,10 +17,10 @@ The app only demonstrates the UI and some features (login and API handling), the
 
 
 ## TODO
-Complete the API handling and populating.
-Implement Sign up using firebase.
-Use a local database to store user profile picture.
-Add more fields in the profile page.
-Add functionality to the favourites section.
+- Complete the API handling and populating.
+- Implement Sign up using firebase.
+- Use a local database to store user profile picture.
+- Add more fields in the profile page.
+- Add functionality to the favourites section.
 
 
